@@ -1,7 +1,7 @@
 Example Voting (Instavote) App
 =========
 
-This is nrw line from featureY branch
+
 
 Getting started
 ---------------
